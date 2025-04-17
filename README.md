@@ -64,7 +64,8 @@ Este proyecto fortaleció competencias clave como la atención al detalle, compr
 <br>
 
 [![@ramiro.ramirez](https://img.icons8.com/fluency/48/000000/linkedin.png "@ramiro.ramirez")](https://www.linkedin.com/in/ramiro-alejandro-ramirez-cuellar/)
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97)
+[![@ramiro.ramirez](https://img.icons8.com/fluency/48/000000/instagram-new.png "@ramiro.ramirez")](https://www.instagram.com/alejandro.rmz.mx?igsh=MTVuazBvYWoydTl3cQ%3D%3D&utm_source=qr) [![@ramiro.ramirez](https://img.icons8.com/fluency/48/000000/facebook.png "@ramiro.ramirez")](https://www.facebook.com/alejandro.w.ramirez.7)
+[![@ramiro.ramirez](https://img.icons8.com/fluency/48/000000/discord.png "@ramiro.ramirez")](https://www.linkedin.com/in/ramiro-alejandro-ramirez-cuellar/)
 
 
 Ultima Actualización: 16/04/2025
