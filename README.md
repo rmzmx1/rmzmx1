@@ -1,42 +1,67 @@
-##Hola 👋, soy Ramiro Ramirez
+<div align="center" width="500">
+    <img alt="https://www.linkedin.com/in/ramiro-alejandro-ramirez-cuellar/" src="https://media.licdn.com/dms/image/v2/D5616AQGx7pNBM8fRGw/profile-displaybackgroundimage-shrink_350_1400/B56ZUwpYbYGsBg-/0/1740277911511?e=1750291200&v=beta&t=rXHKiLJbuxvDDG6ftC_5lu5hCimsyYlUaLesyX_y4-w" width="3000"/>
+</div>
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Ramiro Ramirez</h1>
 
-####Qa Engineer apasionado por asegurar la calidad en el desarrollo de software
+![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
 
-**🌱 Siempre estoy actualizandome en automatización de pruebas**
+## Sobre Mi :
 
-👨‍**💻 Todos mis proyectos están disponibles en https://github.com/rmzmx1**
+- 🏡 Soy de **Monterrey, Nuevo León**
+- 📫 Puedes contactarme en ramiro.ramirez@ilab.net
+- 💻 Todos mis proyectos están disponibles en https://github.com/rmzmx1**
+- 💬 Pregúntame sobre QA manual y automatización, Selenium, Python, SQL, etc.**
+- 📄 Conoce más sobre mi experiencia https://www.linkedin.com/in/ramiro-alejandro-ramirez-cuellar/**
 
-**💬 Pregúntame sobre QA manual y automatización, Selenium, Python, Jmeter, etc.**
+<br>
 
-**📫 Puedes contactarme en ramiro.ramirez@ilab.net**
+## Conéctate conmigo: ☕ :
 
-**📄 Conoce más sobre mi experiencia https://www.linkedin.com/in/ramiro-alejandro-ramirez-cuellar/**
+<br>
 
-------------
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@ramiro.ramirez")](www.linkedin.com/in/ramiro-alejandro-ramirez-cuellar)
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97)
 
+<br>
 
+## What I am Good at 🧑‍💻 :
 
-###**Proyectos destacados:**
+<br>
 
-####🚕 **Urban Routes**
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
 
-- Descripción: Plataforma web para pedir taxis en línea.
-- Tecnologías: Selenium, Python, JIRA, Git.
-- Objetivos Asegurar la calidad y funcionalidad del sistema de reservas y pagos.
-- Pruebas automatizadas: Urban Routes Automation Tests
-- Pruebas manuales: Urban Routes Manual Tests
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
 
-####🛒** Urban Grocers**
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
-- Descripción: Urban Grocers es una aplicación que proporciona información sobre tiendas de abarrotes y productos disponibles en áreas urbanas.
-- Tecnologías: Selenium, Python, Postman, JIRA, Git, Swagger.
-- Objetivos: Validar y documentar la funcionalidad de la plataforma y web.
-- Pruebas automatizadas Urban Grocers Automation Tests
-- Pruebas API API Tests
+<img src="https://img.icons8.com/color/48/000000/npm.png"/>
 
-####🍽️**Urban Lunch**
+<br>
 
-- Descripción: Urban Lunch es una aplicación móvil que facilita a los usuarios la selección y recogida de comidas de diversos restaurantes.
-- Tecnologías: JIRA, Android Studio.
-- Objetivos: Validar y documentar la funcionalidad de la aplicación móvil.
-- Pruebas móviles Mobile Test
+## GitHub Stats 📈 :
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![AnushkaWijegoonawardana97 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+
+<br>
+
+## GitHub Thropies 🏆 :
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
+
+<br>
+
+## Activity Graph 📊 :
+
+<br>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
+
+Last edited on: 30/06/2022
