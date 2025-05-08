@@ -1,5 +1,5 @@
 <div align="center" width="500">
-    <img alt="https://www.linkedin.com/in/ramiro-alejandro-ramirez-cuellar/" src="https://media.licdn.com/dms/image/v2/D5616AQGx7pNBM8fRGw/profile-displaybackgroundimage-shrink_350_1400/B56ZUwpYbYGsBg-/0/1740277911511?e=1750291200&v=beta&t=rXHKiLJbuxvDDG6ftC_5lu5hCimsyYlUaLesyX_y4-w" width="3000"/>
+    <img alt="https://www.linkedin.com/in/ramiro-alejandro-ramirez-cuellar/" src="https://media.licdn.com/dms/image/v2/D5616AQEYTMRg8jhmUA/profile-displaybackgroundimage-shrink_350_1400/B56ZZKCvuxHQAY-/0/1744998958849?e=1752105600&v=beta&t=oLBUNay9N11cLpNob8fhDeq8pNhT7cApo_Dsa6d2gWo" width="3000"/>
 </div>
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Ramiro Ramirez</h1>
 
